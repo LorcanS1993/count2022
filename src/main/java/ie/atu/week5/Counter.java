@@ -12,7 +12,7 @@ public class Counter {
         countValue++;
         return countValue;
     }
-    //test decrement method
+    //Added decrement
     public int decrement()
     {
         countValue--;
